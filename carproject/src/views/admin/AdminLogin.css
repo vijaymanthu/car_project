@@ -1,0 +1,14 @@
+.card{
+    margin: 0 2rem;
+    border :0.51px solid;
+    max-width: 600px;
+    max-height: 400px;
+    height: 25%;
+    width: 50%;
+}
+.card-title
+{
+    text-align: center;
+    padding:1rem;
+    color: white;
+}
